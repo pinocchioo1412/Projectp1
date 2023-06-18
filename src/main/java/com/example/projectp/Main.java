@@ -15,7 +15,7 @@ public class Main extends Application {
             Scene scene=new Scene(root);
             arg0.setScene(scene);
             arg0.show();
-
+            System.out.println("hoang");
         } catch (Exception e) {
             System.out.println(e.getMessage());
         }
