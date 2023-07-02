@@ -20,7 +20,6 @@ public class Main extends Application {
         }
 
     }
-    Scene.getStylesheets().add(getClass().getResource("style1.css").toExternalForm());
     public static void main(String[] args) {
         launch(args);
     }
