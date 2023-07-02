@@ -12,12 +12,15 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.TextField;
+import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
 import java.net.URL;
 import java.util.ResourceBundle;
 
 public class Gui51 implements Initializable {
+    @FXML
+    private ImageView warning51;
     @FXML
     private ComboBox<String> closequiz2;
     @FXML

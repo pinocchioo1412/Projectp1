@@ -21,8 +21,8 @@
                 <Button layoutX="5.0" layoutY="79.0" mnemonicParsing="false" text="HOME" textFill="#e70c0c" />
                 <Button layoutX="79.0" layoutY="79.0" mnemonicParsing="false" text="My Courses" />
                 <Button layoutX="186.0" layoutY="79.0" mnemonicParsing="false" text="THI CUỐI KÌ" textFill="#e70c0c" />
-                <Button layoutX="630.0" layoutY="57.0" mnemonicParsing="false" onAction="#handle" onMouseClicked="#handle" prefHeight="25.0" prefWidth="66.0" style="-fx-background-color: #00BFFF;" stylesheets="@style.css" text="SETTIN'" />
-                <Button layoutX="502.0" layoutY="111.0" mnemonicParsing="false" onAction="#editon" onMouseClicked="#editon" prefHeight="48.0" prefWidth="221.0" style="-fx-background-color: #00BFFF;" text="TURN ON EDITTING" textFill="#2b42a9">
+                <Button layoutX="630.0" layoutY="57.0" mnemonicParsing="false" onAction="#handle" onMouseClicked="#handle" prefHeight="25.0" prefWidth="66.0" style="-fx-background-color: #00BFFF;" stylesheets="@style.css" text="SETTIN'" textFill="#f2ecec" />
+                <Button layoutX="502.0" layoutY="111.0" mnemonicParsing="false" onAction="#editon" onMouseClicked="#editon" prefHeight="48.0" prefWidth="221.0" style="-fx-background-color: #00BFFF;" text="TURN ON EDITTING" textFill="#dcdde1">
                     <font>
                         <Font name="System Bold" size="18.0" />
                     </font>
